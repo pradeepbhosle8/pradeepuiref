@@ -1,0 +1,21 @@
+/* Footer */
+.footer {
+  border-top: 1px solid rgba(67, 89, 102, 0.1);
+  bottom: 0px;
+  color: #58666e;
+  text-align: left !important;
+  padding: 20px 0px;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+}
+.footer ul li {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.footer ul li a {
+  color: #98a6ad;
+}
+.footer ul li a:hover {
+  color: #71b6f9;
+}

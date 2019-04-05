@@ -1,0 +1,6 @@
+.fixList{
+    position: fixed;
+    z-index: 9999;
+    right: 0;
+    top: 175px;
+}
